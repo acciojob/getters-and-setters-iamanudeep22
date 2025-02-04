@@ -25,7 +25,7 @@ class Teacher extends Person {
     }
 }
 
-const person = new Person("John", 30);
+// const person = new Person("John", 30);
 
 // Do not change the code below this line
 window.Person = Person;
